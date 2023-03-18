@@ -1,6 +1,4 @@
-# software
 Public software repository of Sergii Koval
-
 
 ## Xcode Cleaner
 
