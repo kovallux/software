@@ -1,1 +1,14 @@
-111
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Xcode Cleanup</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 18 Mar 2023 13:17:52 +0100</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kovallux/software/raw/main/Xcode%20Cleanup/Xcode%20Cleanup.dmg" length="3509727" type="application/octet-stream" sparkle:edSignature="hGon9d1SiJx7CjyC510Q5mPRhEER+iLkWlyfVnHELJgRY3ohrTGDmGQZD1NC9Tfc8Zjwuq8EodGSpjuXXmRcBw=="/>
+        </item>
+    </channel>
+</rss>
