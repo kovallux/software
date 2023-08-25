@@ -1,7 +1,7 @@
 Public software repository of Sergii Koval
 
 ## Threat Explorer
-<img src="https://jimdo-storage.freetls.fastly.net/image/398441657/9e829d64-110d-4f4b-ae6a-979322c79ba5.png?quality=80,90&auto=webp&disable=upscale&width=1024&height=669&trim=75,0,72,0" alt="Threat Explorer user interface screenshot" style="height: 300px; width:500px;"/>
+<img src="https://jimdo-storage.freetls.fastly.net/image/398441657/9e829d64-110d-4f4b-ae6a-979322c79ba5.png?quality=80,90&auto=webp&disable=upscale&width=1024&height=669&trim=75,0,72,0" alt="Threat Explorer user interface screenshot" style="height: 315px; width:500px;"/>
 
 Discover the eye-opening truth about iOS and macOS app security with our powerful risk analysis and threat assessment tool. Uncover the hidden vulnerabilities lurking within apps on the AppStore that even average hackers can exploit. Our app allows you to thoroughly analyze iOS and macOS apps, identifying the potential threats left behind by developers.
 
