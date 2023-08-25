@@ -1,7 +1,17 @@
 Public software repository of Sergii Koval
 
+## Threat Explorer
+<img src="https://jimdo-storage.freetls.fastly.net/image/398441657/9e829d64-110d-4f4b-ae6a-979322c79ba5.png?quality=80,90&auto=webp&disable=upscale&width=1024&height=669&trim=75,0,72,0" alt="Threat Explorer user interface screenshot" style="height: 400px; width:500px;"/>
+
+Discover the eye-opening truth about iOS and macOS app security with our powerful risk analysis and threat assessment tool. Uncover the hidden vulnerabilities lurking within apps on the AppStore that even average hackers can exploit. Our app allows you to thoroughly analyze iOS and macOS apps, identifying the potential threats left behind by developers.
+
+Secure mobile development is often overlooked, leaving apps susceptible to various risks. With our tool, you can avoid the disappointing mistakes that can occur during app development. Safeguard your app and user data, and embark on a journey towards fortified app security.
+
+Install from AppStore https://apple.co/453VXre
+
+
 ## Xcode Cleaner
-<img src="https://i.stack.imgur.com/jwQKV.png" alt="Xcode Cleaner user interface screenshot" style="height: 400px; width:500px;"/>
+<img src="https://github.com/kovallux/software/raw/main/Xcode%20Cleanup/screenshot1.png" alt="Xcode Cleaner user interface screenshot" style="height: 400px; width:500px;"/>
 
 Every iOS or macOS developer notices that Xcode generates a lot of extra files and folders that occupy lots of space on the computer's hard drive. These places are hidden but this app knows where to search. These extra folders and files can be safely removed almost at all times. Saved space can be 10-100 GB depending on how old is Xcode version.
 This app is a handy utility that developers can run on a monthly basis to save space on a hard drive. Made by a developer for developers.
