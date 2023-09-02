@@ -8,6 +8,7 @@ Discover the eye-opening truth about iOS and macOS app security with our powerfu
 Secure mobile development is often overlooked, leaving apps susceptible to various risks. With our tool, you can avoid the disappointing mistakes that can occur during app development. Safeguard your app and user data, and embark on a journey towards fortified app security.
 
 Install from AppStore https://apple.co/453VXre
+
 Read on Medium https://bit.ly/3RctHPs
 
 
@@ -18,6 +19,7 @@ Every iOS or macOS developer notices that Xcode generates a lot of extra files a
 This app is a handy utility that developers can run on a monthly basis to save space on a hard drive. Made by a developer for developers.
 
 Download app (signed with Developer ID) http://bit.ly/3yKTwMn
+
 Read on Medium https://bit.ly/41Mdbb9
 
 
