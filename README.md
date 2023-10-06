@@ -9,6 +9,8 @@ Secure mobile development is often overlooked, leaving apps susceptible to vario
 
 Install from AppStore https://apple.co/453VXre
 
+Download from GitHub https://github.com/kovallux/software/blob/main/Threat%20Explorer/Threat%20Explorer.dmg
+
 Read on Medium https://bit.ly/3RctHPs
 
 
