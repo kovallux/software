@@ -7,11 +7,7 @@ Discover the eye-opening truth about iOS and macOS app security with our powerfu
 
 Secure mobile development is often overlooked, leaving apps susceptible to various risks. With our tool, you can avoid the disappointing mistakes that can occur during app development. Safeguard your app and user data, and embark on a journey towards fortified app security.
 
-Install from AppStore https://apple.co/453VXre
-
-Download from GitHub https://github.com/kovallux/software/blob/main/Threat%20Explorer/Threat%20Explorer.dmg
-
-Read on Medium https://bit.ly/3RctHPs
+Read more on Medium https://bit.ly/3RctHPs
 
 
 ## Xcode Cleaner
