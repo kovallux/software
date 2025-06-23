@@ -3,12 +3,12 @@
     <channel>
         <title>Hallmark Card Studio v23</title>
         <item>
-            <title>23.0.0.9</title>
-            <pubDate>Mon, 23 Jun 2025 19:40:11 +0200</pubDate>
+            <title>23.0.1.9</title>
+            <pubDate>Mon, 23 Jun 2025 20:11:35 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>23.0.0.9</sparkle:shortVersionString>
+            <sparkle:shortVersionString>23.0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kovallux/software/raw/refs/heads/main/Hallmark/HCS/Hallmark%20Card%20Studio%20v23.zip" length="19954666" type="application/octet-stream" sparkle:edSignature="guhGpI0C6P1yakQPuP/l2PjvMQ+tRq46q9SCMHxReMN3vX6xTUKEluoBlmLjpvtz4D34NurFZ2xjVe8cxV2uCg=="/>
+            <enclosure url="https://github.com/kovallux/software/raw/refs/heads/main/Hallmark/HCS/Hallmark%20Card%20Studio%20v23.zip" length="20140932" type="application/octet-stream" sparkle:edSignature="R6H115L/wMJtYt5tJBkSGymokM2oZ9++A9FZbAKMd0fe0xMaRUWa7gLz6i0JKgzJ9jWIM4cBjeKUasVaMSgTAw=="/>
         </item>
     </channel>
 </rss>
